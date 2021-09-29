@@ -7,12 +7,12 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>diproductions-media-music-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>Diproductions Media-Music Solutions</name>
 		<url>http://divinemedia-music.com/</url>
 	</organization>
 
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Diproductions Meida - Music  Releases Nexus Repository</name>
 	      <url>http://34.228.71.132:8081/repository/diproductions-media-music-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Diproductions Meida - Music Snapshot Nexus Repository </name>
 	      <url>http://34.228.71.132:8081/repository/diproductions-media-music-snapshot/</url>
 	    </snapshotRepository>
 	    
