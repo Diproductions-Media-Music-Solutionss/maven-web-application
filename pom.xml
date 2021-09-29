@@ -13,7 +13,7 @@
 
 	<organization>
 		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<url>http://divinemedia-music.com/</url>
 	</organization>
 
 	<properties>
@@ -97,19 +97,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.25.156:8081/repository/back-to-school-release/ /</url>
+	      <url>http://34.228.71.132:8081/repository/diproductions-media-music-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.25.156:8081/repository/back-to-school-snapshot//</url>
+	      <url>http://34.228.71.132:8081/repository/diproductions-media-music-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>divine-media-music-app</finalName>
 		
 		<plugins>
 			<plugin>
